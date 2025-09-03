@@ -9,6 +9,7 @@
 
 ## 系統展示：
 - Demo網址：https://todo-ms-chi.vercel.app/
+- **此 Demo 使用 Render Free Tier，閒置超過 15 分鐘會休眠，首次運行需等待伺服器喚醒。**
 - 測試帳號/密碼：
   登入頁面輸入 **帳號或電郵** 和密碼 即可
 
